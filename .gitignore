@@ -1,4 +1,5 @@
 # Another files
+.idea/
 .vscode/
 .sonarlint/
 .DS_Store
